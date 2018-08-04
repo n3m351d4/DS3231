@@ -34,6 +34,7 @@ Specification
 - High speed  (400kHz)
 
 - I2C serial bus 
+
 - Supply voltage: +3.3V to +5.5V  
 
 - Digital temperature sensor with a precision of±3℃ 
@@ -44,7 +45,9 @@ Specification
 
 - Certified by American Association of Underwriters Laboratories (UL)  
 
-- Size: 30*20mm Weight: 4g 
+- Size: 30*20mm 
+
+- Weight: 4g 
 
 Circuit connection 
 
